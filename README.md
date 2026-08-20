@@ -43,8 +43,8 @@
 <h2>📈 GitHub Stats</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolasraony06&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasraony06&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=NicolasRaony06" alt="Git Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nicolasraony06&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
 <!---
