@@ -2,7 +2,7 @@
 
 <ul>
   <li>🎓 Estudante de Análise e Desenvolvimento de Sistemas</li>
-  <li>👨‍💻 Entusiasta em resolver problemas com código, com foco em backend utilizando Django.</li>
+  <li>👨‍💻 Entusiasta em resolver problemas com código.</li>
   <li>⚙️ Experiência com automação, análise de dados e construção de soluções práticas</li>
   <li>📫 Entre em contato: nicolas.raony06@gmail.com</li>
 </ul>
@@ -17,7 +17,7 @@
 
 <ul>
   <li>🎓 Systems Analysis and Development student</li>
-  <li>👨‍💻 Passionate about solving problems through code, with a focus on backend development using Django</li>
+  <li>👨‍💻 Passionate about solving problems through code.</li>
   <li>⚙️ Experience with automation, data analysis, and building practical solutions</li>
   <li>📫 Contact: nicolas.raony06@gmail.com</li>
 </ul>
